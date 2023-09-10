@@ -1,22 +1,15 @@
 # google-capstone
- the google data analytics capstone project
 
-<aside>
-📕 **Scenario**
+**Scenario**
 You are a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, your
 team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, your team will design a new marketing strategy to convert casual riders into annual members. But first, Cyclistic executives must approve your recommendations, so they must be backed up with compelling data insights and  professional data visualizations.
 
-</aside>
-
-<aside>
-📕 **Business Task Question**
+**Business Task Question**
 
 1. How do annual members and casual riders use Cyclistic bikes differently?
 </aside>
 
 This case study is referent to the Google Data Analytics Certificate, and the goal is to answer the business question using, in a real-world-like scenario, the data analysis skillset, perfomed as a junior data analyst.
-
-[Scenario / Background](https://www.notion.so/Scenario-Background-dc448b70aeae4ce3b4c5679f7594a328?pvs=21)
 
 ### Asking
 
