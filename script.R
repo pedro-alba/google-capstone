@@ -48,7 +48,6 @@ df2 <- select(df2, -end_station_name, -end_station_id)
 # getting rid of outliers and negatives in ride_duration
 df2 <- subset(df2, as.numeric(ride_duration) > 60)
 df2 <- subset(df2, as.numeric(ride_duration) < 57960)
-# cleaning lat and long
 # 4.290.863 rows, 13 columns 
 # 1.376.854 rows removed
 # export csv
